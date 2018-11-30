@@ -6,27 +6,27 @@
   X-Content-Type-Options: nosniff
 /static/*
   Cache-Control: public, max-age=31536000, immutable
-/everpoint/404/
-  Link: </everpoint/webpack-runtime-93020897d9c0ab895a3f.js>; rel=preload; as=script
-  Link: </everpoint/component---src-pages-404-js-7932569f1955eb40a8d4.js>; rel=preload; as=script
-/everpoint/about/
-  Link: </everpoint/webpack-runtime-93020897d9c0ab895a3f.js>; rel=preload; as=script
-  Link: </everpoint/0.28515b79900118d13b32.css>; rel=preload; as=script
-/everpoint/blog/
-  Link: </everpoint/webpack-runtime-93020897d9c0ab895a3f.js>; rel=preload; as=script
-  Link: </everpoint/0.28515b79900118d13b32.css>; rel=preload; as=script
-/everpoint/contacts/
-  Link: </everpoint/webpack-runtime-93020897d9c0ab895a3f.js>; rel=preload; as=script
-  Link: </everpoint/0.28515b79900118d13b32.css>; rel=preload; as=script
-/everpoint/
-  Link: </everpoint/webpack-runtime-93020897d9c0ab895a3f.js>; rel=preload; as=script
-  Link: </everpoint/0.28515b79900118d13b32.css>; rel=preload; as=script
-/everpoint/jobs/
-  Link: </everpoint/webpack-runtime-93020897d9c0ab895a3f.js>; rel=preload; as=script
-  Link: </everpoint/0.28515b79900118d13b32.css>; rel=preload; as=script
-/everpoint/portfolio/
-  Link: </everpoint/webpack-runtime-93020897d9c0ab895a3f.js>; rel=preload; as=script
-  Link: </everpoint/0.28515b79900118d13b32.css>; rel=preload; as=script
-/everpoint/404.html
-  Link: </everpoint/webpack-runtime-93020897d9c0ab895a3f.js>; rel=preload; as=script
-  Link: </everpoint/component---src-pages-404-js-7932569f1955eb40a8d4.js>; rel=preload; as=script
+/./everpoint/404/
+  Link: </./everpoint/webpack-runtime-d2e12e21bbfb17dfbb95.js>; rel=preload; as=script
+  Link: </./everpoint/component---src-pages-404-js-7932569f1955eb40a8d4.js>; rel=preload; as=script
+/./everpoint/about/
+  Link: </./everpoint/webpack-runtime-d2e12e21bbfb17dfbb95.js>; rel=preload; as=script
+  Link: </./everpoint/0.28515b79900118d13b32.css>; rel=preload; as=script
+/./everpoint/blog/
+  Link: </./everpoint/webpack-runtime-d2e12e21bbfb17dfbb95.js>; rel=preload; as=script
+  Link: </./everpoint/0.28515b79900118d13b32.css>; rel=preload; as=script
+/./everpoint/contacts/
+  Link: </./everpoint/webpack-runtime-d2e12e21bbfb17dfbb95.js>; rel=preload; as=script
+  Link: </./everpoint/0.28515b79900118d13b32.css>; rel=preload; as=script
+/./everpoint/
+  Link: </./everpoint/webpack-runtime-d2e12e21bbfb17dfbb95.js>; rel=preload; as=script
+  Link: </./everpoint/0.28515b79900118d13b32.css>; rel=preload; as=script
+/./everpoint/jobs/
+  Link: </./everpoint/webpack-runtime-d2e12e21bbfb17dfbb95.js>; rel=preload; as=script
+  Link: </./everpoint/0.28515b79900118d13b32.css>; rel=preload; as=script
+/./everpoint/portfolio/
+  Link: </./everpoint/webpack-runtime-d2e12e21bbfb17dfbb95.js>; rel=preload; as=script
+  Link: </./everpoint/0.28515b79900118d13b32.css>; rel=preload; as=script
+/./everpoint/404.html
+  Link: </./everpoint/webpack-runtime-d2e12e21bbfb17dfbb95.js>; rel=preload; as=script
+  Link: </./everpoint/component---src-pages-404-js-7932569f1955eb40a8d4.js>; rel=preload; as=script
